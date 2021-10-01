@@ -1,6 +1,4 @@
-# Project Name
-
-Morse Message Decoder
+# Morse Message Decoder
 
 Script in Ruby that allows you to decode a Morse Message
 
